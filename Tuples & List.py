@@ -49,3 +49,5 @@ print (C)
 B=["a","b","c"]
 print(B[1:])
 #result=['b', 'c']
+
+#Tuples() list[]
